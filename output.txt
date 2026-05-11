@@ -1,0 +1,16 @@
+----- Command: ls  -----
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+b8
+http_server
+README.md
+telnet_server
+temp_11736.txt
+time_server
+users.txt
+
